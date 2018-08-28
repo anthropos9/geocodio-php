@@ -23,6 +23,5 @@
         "psr-0": {
             "Stanley\\Geocodio\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
